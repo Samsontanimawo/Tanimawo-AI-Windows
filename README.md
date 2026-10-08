@@ -6,7 +6,7 @@ everything else, and you stay signed in.
 
 ## ⬇️ Download
 
-**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.1-win-x64.exe)**
+**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.2-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases).)
 
@@ -37,5 +37,6 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
+- **2026-10-08** 1.0.2: the app icon (taskbar, Start menu, desktop) is the Academy robot with its cap, no text. Download links point to 1.0.2.
 - **2026-10-08** First public Windows download: Tanimawo AI 1.0.1. Built by the private Tanimawo_AI-desktop-app repo;
   only the installer is published here.
