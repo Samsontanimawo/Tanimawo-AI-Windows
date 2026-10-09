@@ -6,7 +6,7 @@ everything else, and you stay signed in.
 
 ## ⬇️ Download
 
-**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.2-win-x64.exe)**
+**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.3-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases).)
 
@@ -26,7 +26,11 @@ To remove it: Settings → Apps → Installed apps → Tanimawo AI → Uninstall
 ## Updates
 
 The app always shows the latest version of the Academy app, so you do **not** need to download again for new lessons
-or features. A new download is only needed when the app itself changes; it will be listed under Releases.
+or features. From version 1.0.3 the app also **updates itself**: when a new version comes out it downloads it quietly
+and asks you to **Restart now** (or it updates the next time you close it). You stay signed in. You can also choose
+**Help → Check for updates**. If you have 1.0.2 or older, download 1.0.3 once; after that, updates come to you.
+
+(`latest.yml` and the `.blockmap` file in each release are for these automatic updates; you only need the `.exe`.)
 
 ## Help
 
@@ -37,6 +41,7 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
+- **2026-10-09** 1.0.3: the app updates itself (downloads quietly, Restart now / Later, Help → Check for updates). Each release now also holds latest.yml and the .blockmap (the update feed: installed apps read releases/latest/download/latest.yml here). Download links point to 1.0.3.
 - **2026-10-08** 1.0.2: the app icon (taskbar, Start menu, desktop) is the Academy robot with its cap, no text. Download links point to 1.0.2.
 - **2026-10-08** First public Windows download: Tanimawo AI 1.0.1. Built by the private Tanimawo_AI-desktop-app repo;
   only the installer is published here.
