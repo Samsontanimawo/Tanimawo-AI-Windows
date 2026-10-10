@@ -6,7 +6,7 @@ everything else, and you stay signed in.
 
 ## ⬇️ Download
 
-**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.4-win-x64.exe)**
+**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.5-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases).)
 
@@ -28,7 +28,7 @@ To remove it: Settings → Apps → Installed apps → Tanimawo AI → Uninstall
 The app always shows the latest version of the Academy app, so you do **not** need to download again for new lessons
 or features. From version 1.0.3 the app also **updates itself**: when a new version comes out it downloads it quietly
 and asks you to **Restart now** (or it updates the next time you close it). You stay signed in. You can also choose
-**Help → Check for updates**. If you have 1.0.2 or older, download 1.0.4 once; after that, updates come to you.
+**Help → Check for updates**. If you have 1.0.2 or older, download 1.0.5 once; after that, updates come to you.
 
 (`latest.yml` and the `.blockmap` file in each release are for these automatic updates; you only need the `.exe`.)
 
@@ -41,6 +41,7 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
+- **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a red number on the taskbar button, which flashes when a new message comes in while the app is in the background). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages), and the mouse's back / forward buttons work. Download links point to 1.0.4.
 - **2026-10-09** 1.0.3: the app updates itself (downloads quietly, Restart now / Later, Help → Check for updates). Each release now also holds latest.yml and the .blockmap (the update feed: installed apps read releases/latest/download/latest.yml here). Download links point to 1.0.3.
 - **2026-10-08** 1.0.2: the app icon (taskbar, Start menu, desktop) is the Academy robot with its cap, no text. Download links point to 1.0.2.
