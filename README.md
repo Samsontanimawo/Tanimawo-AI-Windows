@@ -41,7 +41,7 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
-- **1.0.6** (2026-10-12) Voice and video calls in Connect work in the app, with Share your screen (pick a screen or a window).
+- **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen (pick a screen or a window).
 - **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a red number on the taskbar button, which flashes when a new message comes in while the app is in the background). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages), and the mouse's back / forward buttons work. Download links point to 1.0.4.
 - **2026-10-09** 1.0.3: the app updates itself (downloads quietly, Restart now / Later, Help → Check for updates). Each release now also holds latest.yml and the .blockmap (the update feed: installed apps read releases/latest/download/latest.yml here). Download links point to 1.0.3.
