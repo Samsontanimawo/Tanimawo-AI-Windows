@@ -6,7 +6,7 @@ everything else, and you stay signed in.
 
 ## ⬇️ Download
 
-**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.6-win-x64.exe)**
+**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.7-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases).)
 
@@ -28,7 +28,7 @@ To remove it: Settings → Apps → Installed apps → Tanimawo AI → Uninstall
 The app always shows the latest version of the Academy app, so you do **not** need to download again for new lessons
 or features. From version 1.0.3 the app also **updates itself**: when a new version comes out it downloads it quietly
 and asks you to **Restart now** (or it updates the next time you close it). You stay signed in. You can also choose
-**Help → Check for updates**. If you have 1.0.2 or older, download 1.0.6 once; after that, updates come to you.
+**Help → Check for updates**. If you have 1.0.2 or older, download 1.0.7 once; after that, updates come to you.
 
 (`latest.yml` and the `.blockmap` file in each release are for these automatic updates; you only need the `.exe`.)
 
@@ -41,6 +41,7 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
+- **2026-10-13** 1.0.7: the app is now called **Tanix**. Your desktop and Start menu shortcuts are renamed for you; you stay signed in.
 - **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen (pick a screen or a window).
 - **2026-10-10** 1.0.5: the app icon shows how many unread Connect messages you have (a red number on the taskbar button, which flashes when a new message comes in while the app is in the background). Download links point to 1.0.5.
 - **2026-10-10** 1.0.4: a Back / Home bar in the bottom-left corner of websites opened in the app (students' websites, tanimawoai.com pages), and the mouse's back / forward buttons work. Download links point to 1.0.4.
