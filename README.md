@@ -41,6 +41,7 @@ tanimawoaiacademy@gmail.com. Mac version: [Tanimawo-AI-macOS](https://github.com
 
 Newest first. Add one line per change.
 
+- **2026-10-15** 1.0.9: the app itself is now **TaniX** - the X is everything inside it: Connect, Community, Code Lab and the rest. Your desktop and Start menu shortcuts are renamed for you; you stay signed in and keep the same install.
 - **2026-10-15** 1.0.8: the name is written **TaniX**, with a capital X - the X is everything inside it: Connect, Community, Code Lab and the rest. Your desktop and Start menu shortcuts are renamed for you; you stay signed in.
 - **2026-10-13** 1.0.7: the app is now called **TaniX**. Your desktop and Start menu shortcuts are renamed for you; you stay signed in.
 - **2026-10-12** 1.0.6: voice and video calls in Connect work in the app, with Share your screen (pick a screen or a window).
