@@ -1,12 +1,12 @@
 # Tanimawo AI for Windows: download
 
 The **Tanimawo AI Academy** student app for Windows 10 and 11. It is the app at
-[app.tanimawoai.com](https://app.tanimawoai.com) in its own window: Code Lab, My Websites, Connect, notifications and
+[tanix.app](https://tanix.app) in its own window: Code Lab, My Websites, Connect, notifications and
 everything else, and you stay signed in.
 
 ## ⬇️ Download
 
-**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/Tanimawo-AI-1.0.7-win-x64.exe)**
+**[Download for Windows (.exe, 111 MB)](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases/latest/download/TaniX-1.1.0-win-x64.exe)**
 
 (Windows 10 or 11, 64-bit. All releases: [Releases](https://github.com/Samsontanimawo/Tanimawo-AI-Windows/releases).)
 
